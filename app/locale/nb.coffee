@@ -141,8 +141,8 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     books: "Bøker"
 
   common:
-#    back: "Back" # When used as an action verb, like "Navigate backward"
-#    continue: "Continue" # When used as an action verb, like "Continue forward"
+    back: "Tilbake" # When used as an action verb, like "Navigate backward"
+    continue: "Fortsett" #"Continue" # When used as an action verb, like "Continue forward"
     loading: "Laster..."
     saving: "Lagrer..."
     sending: "Sender..."
@@ -322,7 +322,7 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     tip_first_language: "Den mest katastrofale tingen du noen sinne kan lære er ditt første programmeringsspråk. - Alan Kay"
     tip_hardware_problem: "Q: Hvor mange programmerere trengs det for å skifte en lyspære?  A: Inge, det er et hardware problem."
     tip_hofstadters_law: "Hofstadters Lov: Ting tar alltid lenger tid enn du tror, selv når du tar Hofstadters Lov med i beregningen."
-#    tip_premature_optimization: "Premature optimization is the root of all evil. - Donald Knuth"
+    tip_premature_optimization: "For tidlig optimalisering er roten til all ondskap - Donald Knuth" #  "Premature optimization is the root of all evil. - Donald Knuth"
 #    tip_brute_force: "When in doubt, use brute force. - Ken Thompson"
 #    tip_extrapolation: "There are only two kinds of people: those that can extrapolate from incomplete data..."
 #    tip_superpower: "Coding is the closest thing we have to a superpower."
